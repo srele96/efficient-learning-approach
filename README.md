@@ -141,3 +141,11 @@ These are some general steps I follow and 90% of time I follow them in exactly t
 I might have overlooked some details because this process is very familiar and close to me.
 If anything wasn't explained well or there is missing details or something needs
 more explaination, tell me so I can add it to this.
+
+
+
+### Final note
+
+I understand that it will be difficult to follow this, as it may be abstract like following documentation.
+But I believe that applying this approach yields great results, at least it does for me.
+Anyway, as any tool can be learned how to use, this can probably too.
